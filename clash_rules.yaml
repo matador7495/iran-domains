@@ -1,7 +1,6 @@
 # Clash
 # Wiki: https://github.com/Dreamacro/clash/wiki/premium-core-features#rule-providers
 payload:
-  - GEOIP,IR
   - DOMAIN-SUFFIX,0-1.ir
   - DOMAIN-SUFFIX,0011.ir
   - DOMAIN-SUFFIX,00964.ir
@@ -27859,3 +27858,4 @@ payload:
   - DOMAIN-SUFFIX,sarvdata.com
   - DOMAIN-SUFFIX,parsdev.com
   - DOMAIN-SUFFIX,takhfifan.com
+  - DOMAIN-SUFFIX,intrack.ir
