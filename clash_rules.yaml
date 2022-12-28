@@ -1,6 +1,7 @@
 # Clash
 # Wiki: https://github.com/Dreamacro/clash/wiki/premium-core-features#rule-providers
 payload:
+  - GEOIP,IR
   - DOMAIN-SUFFIX,0-1.ir
   - DOMAIN-SUFFIX,0011.ir
   - DOMAIN-SUFFIX,00964.ir
@@ -27833,4 +27834,28 @@ payload:
   - DOMAIN-SUFFIX,zzvideo.ir
   - DOMAIN-SUFFIX,zzzagros.com
   - DOMAIN-SUFFIX,countly.saman.solutions
-  - GEOIP,IR
+  - DOMAIN-SUFFIX,sb24.ir
+  - DOMAIN-SUFFIX,pmlm.ir
+  - DOMAIN-SUFFIX,pay98.app
+  - DOMAIN-SUFFIX,sdb247.com
+  - DOMAIN-SUFFIX,iranicard.ir
+  - DOMAIN-SUFFIX,giftcardgo.ir
+  - DOMAIN-SUFFIX,arvancloud.ir
+  - DOMAIN-SUFFIX,zoomit.ir
+  - DOMAIN-SUFFIX,nextpay.org
+  - DOMAIN-SUFFIX,qr-code.ir
+  - DOMAIN-SUFFIX,javab24.com
+  - DOMAIN-SUFFIX,opizo.com
+  - DOMAIN-SUFFIX,zoomg.ir
+  - DOMAIN-SUFFIX,hard-repair.com
+  - DOMAIN-SUFFIX,masterkala.com
+  - DOMAIN-SUFFIX,mobone.ir
+  - DOMAIN-SUFFIX,apktops.ir
+  - DOMAIN-SUFFIX,androidkade.com
+  - DOMAIN-SUFFIX,numberland.ir
+  - DOMAIN-SUFFIX,datisnetwork.com
+  - DOMAIN-SUFFIX,hivanetwork.com
+  - DOMAIN-SUFFIX,webhostingtalk.ir
+  - DOMAIN-SUFFIX,sarvdata.com
+  - DOMAIN-SUFFIX,parsdev.com
+  - DOMAIN-SUFFIX,takhfifan.com
