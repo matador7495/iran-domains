@@ -1675,6 +1675,7 @@ payload:
   - DOMAIN-SUFFIX,andishmandanbartar.ir
   - DOMAIN-SUFFIX,andishmandco.ir
   - DOMAIN-SUFFIX,android-club.ir
+  - DOMAIN-SUFFIX,android-plus1.ir
   - DOMAIN-SUFFIX,android-studio.ir
   - DOMAIN-SUFFIX,android30t.com
   - DOMAIN-SUFFIX,androidgozar.com
@@ -3199,7 +3200,6 @@ payload:
   - DOMAIN-SUFFIX,b-amooz.com
   - DOMAIN-SUFFIX,b-f-s.ir
   - DOMAIN-SUFFIX,b-sana.ir
-  - DOMAIN-SUFFIX,b2.skin
   - DOMAIN-SUFFIX,b2b1.ir
   - DOMAIN-SUFFIX,b2k2.ir
   - DOMAIN-SUFFIX,b2s.ir
@@ -4797,6 +4797,7 @@ payload:
   - DOMAIN-SUFFIX,cadafzar.ir
   - DOMAIN-SUFFIX,cafe-project.ir
   - DOMAIN-SUFFIX,cafeamiran.com
+  - DOMAIN-SUFFIX,cafeariel.com
   - DOMAIN-SUFFIX,cafeariel.ir
   - DOMAIN-SUFFIX,cafearz.com
   - DOMAIN-SUFFIX,cafeaudio.ir
@@ -8695,6 +8696,7 @@ payload:
   - DOMAIN-SUFFIX,film.ir
   - DOMAIN-SUFFIX,film21.ir
   - DOMAIN-SUFFIX,film2serial.ir
+  - DOMAIN-SUFFIX,film4film.ir
   - DOMAIN-SUFFIX,film78.ir
   - DOMAIN-SUFFIX,filmaa.ir
   - DOMAIN-SUFFIX,filmaland.ir
@@ -9490,6 +9492,7 @@ payload:
   - DOMAIN-SUFFIX,glx.ir
   - DOMAIN-SUFFIX,glxblog.com
   - DOMAIN-SUFFIX,glxphone.ir
+  - DOMAIN-SUFFIX,gmdownload.ir
   - DOMAIN-SUFFIX,gmed.ir
   - DOMAIN-SUFFIX,gmh724.ir
   - DOMAIN-SUFFIX,gmod.ir
@@ -9673,6 +9676,7 @@ payload:
   - DOMAIN-SUFFIX,goodzilo.com
   - DOMAIN-SUFFIX,google20.ir
   - DOMAIN-SUFFIX,googlefirst.ir
+  - DOMAIN-SUFFIX,googlefree.ir
   - DOMAIN-SUFFIX,googlemobl.ir
   - DOMAIN-SUFFIX,googlep30.com
   - DOMAIN-SUFFIX,googlepars.com
@@ -10117,7 +10121,6 @@ payload:
   - DOMAIN-SUFFIX,hamta.me
   - DOMAIN-SUFFIX,hamta24.ir
   - DOMAIN-SUFFIX,hamtaarz.ir
-  - DOMAIN-SUFFIX,hamtamovie.us
   - DOMAIN-SUFFIX,hamtanab.ir
   - DOMAIN-SUFFIX,hamtanab.net
   - DOMAIN-SUFFIX,hamtarayaneh.ir
@@ -19145,6 +19148,7 @@ payload:
   - DOMAIN-SUFFIX,parslab.com
   - DOMAIN-SUFFIX,parslumier.ir
   - DOMAIN-SUFFIX,parsme.com
+  - DOMAIN-SUFFIX,parsmedia.ir
   - DOMAIN-SUFFIX,parsmember.ir
   - DOMAIN-SUFFIX,parsmemoryesfahan.ir
   - DOMAIN-SUFFIX,parsmodir.com
@@ -19815,6 +19819,7 @@ payload:
   - DOMAIN-SUFFIX,piinkgallery.com
   - DOMAIN-SUFFIX,pikano.org
   - DOMAIN-SUFFIX,pikfingerfood.com
+  - DOMAIN-SUFFIX,pikfree.ir
   - DOMAIN-SUFFIX,pikimovie.ir
   - DOMAIN-SUFFIX,pilartejarat.com
   - DOMAIN-SUFFIX,piletaparvaz.ir
@@ -27859,3 +27864,6 @@ payload:
   - DOMAIN-SUFFIX,parsdev.com
   - DOMAIN-SUFFIX,takhfifan.com
   - DOMAIN-SUFFIX,intrack.ir
+  - DOMAIN-SUFFIX,mehrafarinorg.ir
+  - DOMAIN-SUFFIX,mehrafarinorg.com
+  - GEOIP,IR
