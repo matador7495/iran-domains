@@ -4463,6 +4463,7 @@ localhost
 *hamta.cloud
 *hamta.io
 *hamta.me
+*hamtamovie.us
 *hamtanab.net
 *hamtashopping.com
 *hamvar.com
@@ -4832,6 +4833,7 @@ localhost
 *idealfa.com
 *idealkharid.com
 *idealshahr.com
+*idealsysco.com
 *idealtackle.com
 *idealwebsaz.com
 *ideanama.com
@@ -5510,6 +5512,7 @@ localhost
 *jaheshtv.org
 *jahizieh.net
 *jainjas.com
+*jajavabi.com
 *jajiga.com
 *jaklinco.com
 *jakoiran.com
@@ -6139,6 +6142,7 @@ localhost
 *kimiyashave.com
 *kimyagaran.com
 *kind.gift
+*kingcodestudio.com
 *kingpayshop.com
 *kings-discovery.com
 *kingsera.com
@@ -7722,6 +7726,7 @@ localhost
 *nimaghorbani.com
 *nimopack.com
 *nimrokh.org
+*nimternet.com
 *nini.plus
 *nini3et.com
 *niniban.com
@@ -9151,6 +9156,7 @@ localhost
 *rasmesafar.net
 *rasoulalsalam.com
 *rasoulkhosravi.com
+*rastadsaffron.click
 *rastakhome.com
 *rastan-co.com
 *rastana.com
@@ -10964,6 +10970,7 @@ localhost
 *tamizbashi.com
 *tamizgostar.com
 *tamizz.com
+*tamyto.com
 *tanasobefekri.net
 *tandiskitchen.com
 *tandisltd.com
@@ -11043,7 +11050,6 @@ localhost
 *tarjomyar.net
 *tarmimemoo.net
 *tarnama.com
-*taroot-rangi.com
 *tarsiminc.com
 *tarsimprinting.com
 *taryana.net
