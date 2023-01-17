@@ -1605,6 +1605,7 @@ payload:
   - DOMAIN-SUFFIX,ams.ac.ir
   - DOMAIN-SUFFIX,amsofts.com
   - DOMAIN-SUFFIX,amsrv2.ir
+  - DOMAIN-SUFFIX,amsrv3.ir
   - DOMAIN-SUFFIX,amukala.com
   - DOMAIN-SUFFIX,amusabzi.com
   - DOMAIN-SUFFIX,amut.ir
@@ -1675,7 +1676,6 @@ payload:
   - DOMAIN-SUFFIX,andishmandanbartar.ir
   - DOMAIN-SUFFIX,andishmandco.ir
   - DOMAIN-SUFFIX,android-club.ir
-  - DOMAIN-SUFFIX,android-plus1.ir
   - DOMAIN-SUFFIX,android-studio.ir
   - DOMAIN-SUFFIX,android30t.com
   - DOMAIN-SUFFIX,androidgozar.com
@@ -1823,6 +1823,7 @@ payload:
   - DOMAIN-SUFFIX,appbime.ir
   - DOMAIN-SUFFIX,appcollege.ir
   - DOMAIN-SUFFIX,appdana.com
+  - DOMAIN-SUFFIX,appeditor.ir
   - DOMAIN-SUFFIX,appency.ir
   - DOMAIN-SUFFIX,appeto.ir
   - DOMAIN-SUFFIX,appforall.ir
@@ -1995,6 +1996,7 @@ payload:
   - DOMAIN-SUFFIX,architectsalam.ir
   - DOMAIN-SUFFIX,archivemed.ir
   - DOMAIN-SUFFIX,archiveseda.ir
+  - DOMAIN-SUFFIX,archome.ir
   - DOMAIN-SUFFIX,archsaze.ir
   - DOMAIN-SUFFIX,arcob.app
   - DOMAIN-SUFFIX,ardabil.info
@@ -3352,6 +3354,7 @@ payload:
   - DOMAIN-SUFFIX,bajahan.ir
   - DOMAIN-SUFFIX,bajebilit.com
   - DOMAIN-SUFFIX,bajee.ir
+  - DOMAIN-SUFFIX,bajehapp.ir
   - DOMAIN-SUFFIX,bakala.ir
   - DOMAIN-SUFFIX,bakcompany.ir
   - DOMAIN-SUFFIX,bakh6i.com
@@ -8742,6 +8745,7 @@ payload:
   - DOMAIN-SUFFIX,fipiran.com
   - DOMAIN-SUFFIX,fipli.ir
   - DOMAIN-SUFFIX,fippo.ir
+  - DOMAIN-SUFFIX,firefix.ir
   - DOMAIN-SUFFIX,firefixdl1.ir
   - DOMAIN-SUFFIX,fireiman.ir
   - DOMAIN-SUFFIX,fireshot.ir
@@ -9492,7 +9496,6 @@ payload:
   - DOMAIN-SUFFIX,glx.ir
   - DOMAIN-SUFFIX,glxblog.com
   - DOMAIN-SUFFIX,glxphone.ir
-  - DOMAIN-SUFFIX,gmdownload.ir
   - DOMAIN-SUFFIX,gmed.ir
   - DOMAIN-SUFFIX,gmh724.ir
   - DOMAIN-SUFFIX,gmod.ir
@@ -10121,6 +10124,7 @@ payload:
   - DOMAIN-SUFFIX,hamta.me
   - DOMAIN-SUFFIX,hamta24.ir
   - DOMAIN-SUFFIX,hamtaarz.ir
+  - DOMAIN-SUFFIX,hamtamovie.us
   - DOMAIN-SUFFIX,hamtanab.ir
   - DOMAIN-SUFFIX,hamtanab.net
   - DOMAIN-SUFFIX,hamtarayaneh.ir
@@ -11114,6 +11118,7 @@ payload:
   - DOMAIN-SUFFIX,idealparvazpersian.ir
   - DOMAIN-SUFFIX,idealprinting.ir
   - DOMAIN-SUFFIX,idealshahr.com
+  - DOMAIN-SUFFIX,idealsysco.com
   - DOMAIN-SUFFIX,idealsystem.ir
   - DOMAIN-SUFFIX,idealtackle.com
   - DOMAIN-SUFFIX,idealwebsaz.com
@@ -12684,6 +12689,7 @@ payload:
   - DOMAIN-SUFFIX,jahromplus.ir
   - DOMAIN-SUFFIX,jahromu.ac.ir
   - DOMAIN-SUFFIX,jainjas.com
+  - DOMAIN-SUFFIX,jajavabi.com
   - DOMAIN-SUFFIX,jajiga.com
   - DOMAIN-SUFFIX,jaju24.ir
   - DOMAIN-SUFFIX,jaklinco.com
@@ -14090,6 +14096,7 @@ payload:
   - DOMAIN-SUFFIX,kind.gift
   - DOMAIN-SUFFIX,kindfather.ir
   - DOMAIN-SUFFIX,king-art.ir
+  - DOMAIN-SUFFIX,kingcodestudio.com
   - DOMAIN-SUFFIX,kingcrystal.ir
   - DOMAIN-SUFFIX,kingpayshop.com
   - DOMAIN-SUFFIX,kings-discovery.com
@@ -17806,6 +17813,7 @@ payload:
   - DOMAIN-SUFFIX,nimrokh.org
   - DOMAIN-SUFFIX,nimrooplus.ir
   - DOMAIN-SUFFIX,nimrou.ir
+  - DOMAIN-SUFFIX,nimternet.com
   - DOMAIN-SUFFIX,nimup.ir
   - DOMAIN-SUFFIX,nimvarcity.ir
   - DOMAIN-SUFFIX,nini.plus
@@ -20916,6 +20924,7 @@ payload:
   - DOMAIN-SUFFIX,rassaam.ir
   - DOMAIN-SUFFIX,rassan.ir
   - DOMAIN-SUFFIX,rasta-it.ir
+  - DOMAIN-SUFFIX,rastadsaffron.click
   - DOMAIN-SUFFIX,rastakhome.com
   - DOMAIN-SUFFIX,rastakhome.ir
   - DOMAIN-SUFFIX,rastan-co.com
@@ -22591,6 +22600,7 @@ payload:
   - DOMAIN-SUFFIX,sbrsport.ir
   - DOMAIN-SUFFIX,sbtmedical.co
   - DOMAIN-SUFFIX,sbu.ac.ir
+  - DOMAIN-SUFFIX,scab.ir
   - DOMAIN-SUFFIX,scale-co.ir
   - DOMAIN-SUFFIX,scale.ir
   - DOMAIN-SUFFIX,scalpiranian.com
@@ -25004,6 +25014,7 @@ payload:
   - DOMAIN-SUFFIX,tamnamusics.ir
   - DOMAIN-SUFFIX,tamrino.ir
   - DOMAIN-SUFFIX,tamtam-ebook.ir
+  - DOMAIN-SUFFIX,tamyto.com
   - DOMAIN-SUFFIX,tanas.ir
   - DOMAIN-SUFFIX,tanasobefekri.net
   - DOMAIN-SUFFIX,tandis-tadbiromid.ir
@@ -25150,7 +25161,6 @@ payload:
   - DOMAIN-SUFFIX,tarnama.com
   - DOMAIN-SUFFIX,taroff.ir
   - DOMAIN-SUFFIX,taroffcod.ir
-  - DOMAIN-SUFFIX,taroot-rangi.com
   - DOMAIN-SUFFIX,tarrahandookht.ir
   - DOMAIN-SUFFIX,tarsiminc.com
   - DOMAIN-SUFFIX,tarsimprinting.com
@@ -26957,6 +26967,7 @@ payload:
   - DOMAIN-SUFFIX,weblight.ir
   - DOMAIN-SUFFIX,weblime.ir
   - DOMAIN-SUFFIX,weblimoo.com
+  - DOMAIN-SUFFIX,webling.ir
   - DOMAIN-SUFFIX,weblogibc-co.com
   - DOMAIN-SUFFIX,webloox.ir
   - DOMAIN-SUFFIX,webmaster98.com
