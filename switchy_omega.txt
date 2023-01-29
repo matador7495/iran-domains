@@ -3115,6 +3115,7 @@ localhost
 *drfariborzamini.com
 *drfarzinaslani.com
 *drfasihi.com
+*drgerami.com
 *drgholamalipour.com
 *drgoroohi.com
 *drhajiyousefi.com
@@ -3696,6 +3697,7 @@ localhost
 *fardavar.com
 *fardayehormozgan.com
 *fardcenter.com
+*fardisdl.xyz
 *fardparvaz.com
 *fardyab.com
 *fargoapp.co
@@ -3986,6 +3988,7 @@ localhost
 *gameamooz.com
 *gameava.net
 *gamefa.com
+*gamegift.net
 *gamelectronics.com
 *gameronchoob.com
 *gametips.tv
@@ -6886,6 +6889,7 @@ localhost
 *mehrpetrochem.com
 *mehrpol.com
 *mehrsa.org
+*mehrsaan.com
 *mehrsama.com
 *mehrsaman.com
 *mehrshopcenter.com
@@ -8883,6 +8887,7 @@ localhost
 *primopomp.com
 *printer-co.com
 *printfeed.org
+*privacymbn.ml
 *privetlinkco.xyz
 *probit-ir.com
 *prof-mehrabi.com
@@ -11050,6 +11055,7 @@ localhost
 *tarjomyar.net
 *tarmimemoo.net
 *tarnama.com
+*taroot-rangi.com
 *tarsiminc.com
 *tarsimprinting.com
 *taryana.net
