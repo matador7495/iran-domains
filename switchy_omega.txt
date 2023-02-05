@@ -1642,6 +1642,7 @@ localhost
 *barishsesi.com
 *barkatventures.com
 *barkhatnews.com
+*barlytech.com
 *barnama.org
 *barnamechi.com
 *barnameha.com
@@ -2944,13 +2945,13 @@ localhost
 *dlfars.pw
 *dlfox.com
 *dlfreegames.com
-*dlgamesh.site
 *dlget.xyz
 *dlmrm.xyz
 *dlseemoon.xyz
 *dlserverpro.xyz
 *dlservers.fun
 *dlservice.xyz
+*dlspeedt.store
 *dmkala.com
 *dmkharid.com
 *dmtaban.com
@@ -3734,6 +3735,7 @@ localhost
 *farrahicarpet.com
 *farrokh.net
 *farrokhbavar.com
+*farrokhfal.com
 *fars-hotels.com
 *fars724.com
 *farsangroup.com
@@ -5825,6 +5827,7 @@ localhost
 *karjooyan-melal.com
 *karkonan.shop
 *karma724.com
+*karmachemi.com
 *karmaniatech.com
 *karmide.com
 *karnamashop.com
@@ -6568,6 +6571,7 @@ localhost
 *mahroman.xyz
 *mahshahri.com
 *mahshar.com
+*mahta.pro
 *mahtaa.com
 *mahtabchap.com
 *mahtop.com
@@ -7192,6 +7196,7 @@ localhost
 *mojeno-co.com
 *mojezamzam.com
 *mojisp.com
+*mojogem.com
 *mojriansalamat.com
 *mojrinazer.com
 *mojtabafadaei.com
@@ -8006,7 +8011,6 @@ localhost
 *onlineyazd.com
 *onmiz.com
 *onyx-ex.com
-*ooklaserver.net
 *ooma.org
 *oosta.org
 *opatan.com
@@ -8260,6 +8264,7 @@ localhost
 *parman-co.com
 *parmanshop.com
 *parmik.com
+*parmin.cloud
 *parmisco.com
 *parmisit.com
 *parmisoft.com
@@ -8887,7 +8892,7 @@ localhost
 *primopomp.com
 *printer-co.com
 *printfeed.org
-*privacymbn.ml
+*privacymbn.xyz
 *privetlinkco.xyz
 *probit-ir.com
 *prof-mehrabi.com
@@ -8948,6 +8953,7 @@ localhost
 *qabas.net
 *qaim.net
 *qaim.org
+*qasdak.com
 *qasemihat.com
 *qashqaionline.com
 *qazvin.info
@@ -9986,6 +9992,7 @@ localhost
 *sdmabna.com
 *sdp-soft.com
 *sdtnetshop.com
+*sea-pocket.com
 *seamarjan.com
 *seaofhappinessco.com
 *seasark.com
@@ -10970,6 +10977,7 @@ localhost
 *tamiraat.com
 *tamiraat.net
 *tamirkarsabz.com
+*tamirpc.net
 *tamish-jewelry.com
 *tamiz.app
 *tamizbashi.com
@@ -11009,6 +11017,7 @@ localhost
 *tarabari724.com
 *taradisco.com
 *tarafdari.com
+*taragc.com
 *tarahanit.com
 *tarahanmanzar.com
 *tarahanprinting.com
@@ -11443,6 +11452,7 @@ localhost
 *tozpump.com
 *tp-mihan.com
 *tpbin.com
+*tpcs1.xyz
 *tpjco.com
 *tpsoil.com
 *tptacc.com
