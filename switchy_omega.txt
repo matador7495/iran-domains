@@ -69,6 +69,7 @@ localhost
 *30book.com
 *30darsad.com
 *30msell.com
+*30nama.org
 *30namato.com
 *30tokala.com
 *30view.com
@@ -122,6 +123,7 @@ localhost
 *7dung.com
 *7gardoon.com
 *7learn.com
+*7leecher.net
 *7maghz.com
 *7playstudio.com
 *7ruzezendegi.com
@@ -1920,6 +1922,7 @@ localhost
 *betonvazelzeleh.com
 *betterbilit.com
 *beyhaghpub.com
+*bginternal.com
 *bgstravel.com
 *bi2bi30.com
 *bia2ads.com
@@ -2945,6 +2948,7 @@ localhost
 *dlfars.pw
 *dlfox.com
 *dlfreegames.com
+*dlgamesh.site
 *dlget.xyz
 *dlmrm.xyz
 *dlseemoon.xyz
@@ -4446,6 +4450,7 @@ localhost
 *hamrah-support.com
 *hamrahanapps.com
 *hamrahansafar.com
+*hamrahcard.net
 *hamrahdoctor.com
 *hamraheiranian.com
 *hamrahjanebi.com
@@ -6261,6 +6266,7 @@ localhost
 *kpg-co.com
 *kt-co.com
 *ktark.com
+*ktl-co.com
 *ktscargo.com
 *kudakeirani.com
 *kurdhewall.com
@@ -6752,6 +6758,7 @@ localhost
 *masoudpipe.com
 *masoudraoufi.com
 *masrouri.com
+*master.tube
 *mastercoffees.com
 *masterdl.com
 *matabariana.com
@@ -7779,6 +7786,7 @@ localhost
 *noandishanafzar.com
 *noandishanbroker.com
 *noandishanbrokerage.com
+*noandishanedana.com
 *noarous.com
 *noavaran-eye.com
 *noavaran-sam.com
@@ -9325,6 +9333,7 @@ localhost
 *restkala.com
 *restream.gg
 *resturan24.com
+*reval.fun
 *rexnanews.com
 *rey20.com
 *reyhan-travel.com
@@ -9493,6 +9502,7 @@ localhost
 *rozhmedia.com
 *rozice.com
 *rozmovie.com
+*rozmusic.com
 *rozrokh.com
 *rozwash.com
 *rpcta.com
@@ -11856,6 +11866,7 @@ localhost
 *x-off.org
 *xadnshosting.com
 *xenotic.app
+*xiaomibaaz.com
 *xiaomiyab.com
 *xiaomiyazd.com
 *xitonix.com
@@ -11971,6 +11982,7 @@ localhost
 *zabanafza.com
 *zabanamoozan.com
 *zabaneaval.com
+*zabangostar.com
 *zabanmaster.com
 *zabanmehrpub.com
 *zabannavid.com
@@ -12143,7 +12155,6 @@ localhost
 *zzzagros.com
 *countly.saman.solutions
 *pay98.app
-*sdb247.com
 *nextpay.org
 *javab24.com
 *opizo.com

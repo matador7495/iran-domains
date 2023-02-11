@@ -66,6 +66,7 @@ regexp:.+\.ir$
 30book.com
 30darsad.com
 30msell.com
+30nama.org
 30namato.com
 30tokala.com
 30view.com
@@ -119,6 +120,7 @@ regexp:.+\.ir$
 7dung.com
 7gardoon.com
 7learn.com
+7leecher.net
 7maghz.com
 7playstudio.com
 7ruzezendegi.com
@@ -1917,6 +1919,7 @@ betisco.com
 betonvazelzeleh.com
 betterbilit.com
 beyhaghpub.com
+bginternal.com
 bgstravel.com
 bi2bi30.com
 bia2ads.com
@@ -2942,6 +2945,7 @@ dlbartar.com
 dlfars.pw
 dlfox.com
 dlfreegames.com
+dlgamesh.site
 dlget.xyz
 dlmrm.xyz
 dlseemoon.xyz
@@ -4443,6 +4447,7 @@ hamrah-mechanic.com
 hamrah-support.com
 hamrahanapps.com
 hamrahansafar.com
+hamrahcard.net
 hamrahdoctor.com
 hamraheiranian.com
 hamrahjanebi.com
@@ -6258,6 +6263,7 @@ kparad.com
 kpg-co.com
 kt-co.com
 ktark.com
+ktl-co.com
 ktscargo.com
 kudakeirani.com
 kurdhewall.com
@@ -6749,6 +6755,7 @@ masoudnajafi.com
 masoudpipe.com
 masoudraoufi.com
 masrouri.com
+master.tube
 mastercoffees.com
 masterdl.com
 matabariana.com
@@ -7776,6 +7783,7 @@ noandishaan.com
 noandishanafzar.com
 noandishanbroker.com
 noandishanbrokerage.com
+noandishanedana.com
 noarous.com
 noavaran-eye.com
 noavaran-sam.com
@@ -9322,6 +9330,7 @@ restfulsms.com
 restkala.com
 restream.gg
 resturan24.com
+reval.fun
 rexnanews.com
 rey20.com
 reyhan-travel.com
@@ -9490,6 +9499,7 @@ rozhinjewelry.com
 rozhmedia.com
 rozice.com
 rozmovie.com
+rozmusic.com
 rozrokh.com
 rozwash.com
 rpcta.com
@@ -11853,6 +11863,7 @@ wwtp-pm.com
 x-off.org
 xadnshosting.com
 xenotic.app
+xiaomibaaz.com
 xiaomiyab.com
 xiaomiyazd.com
 xitonix.com
@@ -11968,6 +11979,7 @@ zabanac.com
 zabanafza.com
 zabanamoozan.com
 zabaneaval.com
+zabangostar.com
 zabanmaster.com
 zabanmehrpub.com
 zabannavid.com
@@ -12140,7 +12152,6 @@ zuperi.com
 zzzagros.com
 countly.saman.solutions
 pay98.app
-sdb247.com
 nextpay.org
 javab24.com
 opizo.com

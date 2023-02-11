@@ -187,6 +187,7 @@ payload:
   - DOMAIN-SUFFIX,30man.ir
   - DOMAIN-SUFFIX,30msell.com
   - DOMAIN-SUFFIX,30msell.ir
+  - DOMAIN-SUFFIX,30nama.org
   - DOMAIN-SUFFIX,30namato.com
   - DOMAIN-SUFFIX,30tokala.com
   - DOMAIN-SUFFIX,30top.ir
@@ -211,6 +212,7 @@ payload:
   - DOMAIN-SUFFIX,3670.ir
   - DOMAIN-SUFFIX,38064.ir
   - DOMAIN-SUFFIX,3ali3.com
+  - DOMAIN-SUFFIX,3aze.ir
   - DOMAIN-SUFFIX,3bilit.com
   - DOMAIN-SUFFIX,3center.ir
   - DOMAIN-SUFFIX,3cx.eu
@@ -339,6 +341,7 @@ payload:
   - DOMAIN-SUFFIX,7ir.ir
   - DOMAIN-SUFFIX,7learn.com
   - DOMAIN-SUFFIX,7leecher.ir
+  - DOMAIN-SUFFIX,7leecher.net
   - DOMAIN-SUFFIX,7live.ir
   - DOMAIN-SUFFIX,7maghz.com
   - DOMAIN-SUFFIX,7playstudio.com
@@ -1426,7 +1429,6 @@ payload:
   - DOMAIN-SUFFIX,amajsport.com
   - DOMAIN-SUFFIX,amaliyateenhedam.com
   - DOMAIN-SUFFIX,amaliyateenhedam.ir
-  - DOMAIN-SUFFIX,amammad.ir
   - DOMAIN-SUFFIX,amandaco.ir
   - DOMAIN-SUFFIX,amanimarket.com
   - DOMAIN-SUFFIX,amansoft.ir
@@ -4130,6 +4132,7 @@ payload:
   - DOMAIN-SUFFIX,bezarobefroush.ir
   - DOMAIN-SUFFIX,bfit.ir
   - DOMAIN-SUFFIX,bfn.ir
+  - DOMAIN-SUFFIX,bginternal.com
   - DOMAIN-SUFFIX,bgm24.ir
   - DOMAIN-SUFFIX,bgstravel.com
   - DOMAIN-SUFFIX,bgt.ir
@@ -5187,7 +5190,6 @@ payload:
   - DOMAIN-SUFFIX,cheapapp.ir
   - DOMAIN-SUFFIX,cheatha.com
   - DOMAIN-SUFFIX,chechilas.com
-  - DOMAIN-SUFFIX,check-speed.ir
   - DOMAIN-SUFFIX,checkino.ir
   - DOMAIN-SUFFIX,checknevis.com
   - DOMAIN-SUFFIX,cheedan.ir
@@ -6584,6 +6586,7 @@ payload:
   - DOMAIN-SUFFIX,dlfox.com
   - DOMAIN-SUFFIX,dlfreegames.com
   - DOMAIN-SUFFIX,dlfun.ir
+  - DOMAIN-SUFFIX,dlgamesh.site
   - DOMAIN-SUFFIX,dlget.xyz
   - DOMAIN-SUFFIX,dli.ir
   - DOMAIN-SUFFIX,dlib.ir
@@ -8964,6 +8967,7 @@ payload:
   - DOMAIN-SUFFIX,fronet.ir
   - DOMAIN-SUFFIX,frooyesh.ir
   - DOMAIN-SUFFIX,frotel.com
+  - DOMAIN-SUFFIX,fruitcraft.ir
   - DOMAIN-SUFFIX,fruitman.ir
   - DOMAIN-SUFFIX,fruitsci.com
   - DOMAIN-SUFFIX,fruitsci.ir
@@ -10101,6 +10105,7 @@ payload:
   - DOMAIN-SUFFIX,hamrahair.ir
   - DOMAIN-SUFFIX,hamrahanapps.com
   - DOMAIN-SUFFIX,hamrahansafar.com
+  - DOMAIN-SUFFIX,hamrahcard.net
   - DOMAIN-SUFFIX,hamrahdoctor.com
   - DOMAIN-SUFFIX,hamraheiranian.com
   - DOMAIN-SUFFIX,hamrahhesabsepahan.ir
@@ -14355,6 +14360,7 @@ payload:
   - DOMAIN-SUFFIX,ktark.com
   - DOMAIN-SUFFIX,ktb24.ir
   - DOMAIN-SUFFIX,kte-co.ir
+  - DOMAIN-SUFFIX,ktl-co.com
   - DOMAIN-SUFFIX,ktravel.ir
   - DOMAIN-SUFFIX,ktscargo.com
   - DOMAIN-SUFFIX,ktsport.ir
@@ -15488,6 +15494,7 @@ payload:
   - DOMAIN-SUFFIX,masrouri.com
   - DOMAIN-SUFFIX,massir.ir
   - DOMAIN-SUFFIX,mastanehonline.ir
+  - DOMAIN-SUFFIX,master.tube
   - DOMAIN-SUFFIX,mastercoffees.com
   - DOMAIN-SUFFIX,masterdl.com
   - DOMAIN-SUFFIX,masterescaperoom.ir
@@ -15630,6 +15637,7 @@ payload:
   - DOMAIN-SUFFIX,mdental.ir
   - DOMAIN-SUFFIX,mdesign.ir
   - DOMAIN-SUFFIX,mdfsazeh.com
+  - DOMAIN-SUFFIX,mdh504.ir
   - DOMAIN-SUFFIX,mdle.ir
   - DOMAIN-SUFFIX,mdmd.ir
   - DOMAIN-SUFFIX,mdmooc.ir
@@ -15837,6 +15845,7 @@ payload:
   - DOMAIN-SUFFIX,mehrsaman.com
   - DOMAIN-SUFFIX,mehrsanat.ir
   - DOMAIN-SUFFIX,mehrsanatalborz.ir
+  - DOMAIN-SUFFIX,mehrsaweb.ir
   - DOMAIN-SUFFIX,mehrshad-golabchi.ir
   - DOMAIN-SUFFIX,mehrshadseir.ir
   - DOMAIN-SUFFIX,mehrshafa.ir
@@ -16775,6 +16784,7 @@ payload:
   - DOMAIN-SUFFIX,mr-api.ir
   - DOMAIN-SUFFIX,mr-asansor.com
   - DOMAIN-SUFFIX,mr-bahadori.com
+  - DOMAIN-SUFFIX,mr-bazi.ir
   - DOMAIN-SUFFIX,mr-file.com
   - DOMAIN-SUFFIX,mr-nano.ir
   - DOMAIN-SUFFIX,mr-rad.ir
@@ -17940,6 +17950,7 @@ payload:
   - DOMAIN-SUFFIX,noandishanafzar.com
   - DOMAIN-SUFFIX,noandishanbroker.com
   - DOMAIN-SUFFIX,noandishanbrokerage.com
+  - DOMAIN-SUFFIX,noandishanedana.com
   - DOMAIN-SUFFIX,noaroosan.ir
   - DOMAIN-SUFFIX,noarous.com
   - DOMAIN-SUFFIX,noavaran-eye.com
@@ -21277,6 +21288,7 @@ payload:
   - DOMAIN-SUFFIX,retag.ir
   - DOMAIN-SUFFIX,retailreport.ir
   - DOMAIN-SUFFIX,retrofitting.ir
+  - DOMAIN-SUFFIX,reval.fun
   - DOMAIN-SUFFIX,revayatfath.ir
   - DOMAIN-SUFFIX,revayatno.ir
   - DOMAIN-SUFFIX,revit-mep.ir
@@ -21637,6 +21649,7 @@ payload:
   - DOMAIN-SUFFIX,rozhmedia.com
   - DOMAIN-SUFFIX,rozice.com
   - DOMAIN-SUFFIX,rozmovie.com
+  - DOMAIN-SUFFIX,rozmusic.com
   - DOMAIN-SUFFIX,rozrokh.com
   - DOMAIN-SUFFIX,rozwash.com
   - DOMAIN-SUFFIX,rpcta.com
@@ -21868,6 +21881,7 @@ payload:
   - DOMAIN-SUFFIX,sadra24.com
   - DOMAIN-SUFFIX,sadracom.ir
   - DOMAIN-SUFFIX,sadramobile.com
+  - DOMAIN-SUFFIX,sadranews1400.ir
   - DOMAIN-SUFFIX,sadranshop.com
   - DOMAIN-SUFFIX,sadraseir.com
   - DOMAIN-SUFFIX,sadrastock.com
@@ -27249,6 +27263,7 @@ payload:
   - DOMAIN-SUFFIX,xenotic.app
   - DOMAIN-SUFFIX,xenotic.ir
   - DOMAIN-SUFFIX,xiaomi360.ir
+  - DOMAIN-SUFFIX,xiaomibaaz.com
   - DOMAIN-SUFFIX,xiaomiiran.ir
   - DOMAIN-SUFFIX,xiaomiyab.com
   - DOMAIN-SUFFIX,xiaomiyazd.com
@@ -27529,6 +27544,7 @@ payload:
   - DOMAIN-SUFFIX,zabanamoozan.com
   - DOMAIN-SUFFIX,zabaneaval.com
   - DOMAIN-SUFFIX,zabaneramzi.ir
+  - DOMAIN-SUFFIX,zabangostar.com
   - DOMAIN-SUFFIX,zabanmaster.com
   - DOMAIN-SUFFIX,zabanmehr.ir
   - DOMAIN-SUFFIX,zabanmehrpub.com
@@ -27911,7 +27927,6 @@ payload:
   - DOMAIN-SUFFIX,sb24.ir
   - DOMAIN-SUFFIX,pmlm.ir
   - DOMAIN-SUFFIX,pay98.app
-  - DOMAIN-SUFFIX,sdb247.com
   - DOMAIN-SUFFIX,iranicard.ir
   - DOMAIN-SUFFIX,giftcardgo.ir
   - DOMAIN-SUFFIX,arvancloud.ir

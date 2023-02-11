@@ -35,24 +35,54 @@ rule-providers:
 
 #
 ### Proxy SwitchyOmega افزونه
-لینک دانلود فایل :
-[https://raw.githubusercontent.com/matador7495/iran-domains/main/switchy_omega.txt](https://raw.githubusercontent.com/matador7495/iran-domains/main/switchy_omega.txt)
+[لینک دانلود آخرین نسخه فایل qv2ray_schema.json](https://github.com/matador7495/iran-domains/releases/latest)
 
 محتوا فایل را در پروفایل proxy بخش مربوط به Bypass List قرار دهید
 
 #
 ### [Qv2ray](https://github.com/Qv2ray/Qv2ray)
 
-
-لینک دانلود فایل : [https://raw.githubusercontent.com/matador7495/iran-domains/main/qv2ray_schema.json](https://raw.githubusercontent.com/matador7495/iran-domains/main/qv2ray_schema.json)
-
-1. فایل را دانلود کنید.
+1. فایل switchy_omega را دانلود کنید.
+[لینک دانلود آخرین نسخه فایل switchy_omega.txt](https://github.com/matador7495/iran-domains/releases/latest)
 2. در بخش `preferences` بر روی `Advanced Route Settings` کلیک کنید.
 3. در پایین صفحه، بر روی `import schema...` کلیک کنید.
 4. فایل qv2ray_schema.json دانلود شده را انتخاب کنید.
 5. در کادر باز شده بر روی yes کلیک کنید.
 6. بر روی OK کلیک کنید.
+<img width="400" src="assets/qv2ray.png">
 
+#
+### [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
+
+1. فایل `shadowrocket.conf` را دانلود کنید.
+[لینک دانلود آخرین نسخه فایل shadowrocket.conf](https://github.com/matador7495/iran-domains/releases/latest)
+2. در اپلیکیشن بر روی `Import From Cloud` کلیک کرده و فایل مربوط را اضافه کنید.
+3. در نهایت، بر روی `shadowrocket.conf`کلیک کرده و `Use Config` را انتخاب کنید.
+
+<table>
+  <tr>
+    <td>  <img align="right" height="400" src="assets/shadowrocket1.png"> </td>
+    <td>  <img align="right" height="400" src="assets/shadowrocket2.png"> </td>
+   </tr>
+  </tr>
+</table>
+
+#
+### [Nekoray](https://github.com/MatsuriDayo/nekoray)
+
+1. در ابتدا فایل `domains.txt` را دانلود کنید.
+[لینک دانلود آخرین نسخه فایل domains.txt](https://github.com/matador7495/iran-domains/releases/latest)
+2. سپس nekoray را باز کنید و روی آیکون `program` بالا سمت چپ کلیک کنید
+3. سپس به ترتیب روی دکمه `preferences` و `routing setting`  کلیک کنید
+4. محتوا فایل دانلود شده را در قسمت Direct-Domain جایگذاری کنید.
+5. سپس بر روی OK کلیک کنید و برنامه را دوباره اجرا کنید.
+
+<table>
+  <tr>
+    <td> <img align="right" width="400" src="assets/nekoray1.png"> </td>
+   </tr>
+  </tr>
+</table>
 
 #
 ### منابع
@@ -66,4 +96,3 @@ rule-providers:
 
 اگر شما منابع دیگری می‌شناسید و یا وب‌سایتی پیدا کرده‌اید که اینجا نیست لطفا یک
 [issue] باز کنید 
-
