@@ -85,6 +85,71 @@ rule-providers:
 </table>
 
 #
+### [V2rayNG](https://github.com/2dust/v2rayNG)
+
+1. در ابتدا فایل `iran.dat` را دانلود کنید.
+1.  فایل را در گوشی خود با نرم افزار مدیریت فایل به مسیر `Android/data/com.v2ray.ang/files/assets` منتقل کنید.
+2. بعد توی `Setting` برنامه تو بخش `Routing` مطمئن بشید که `Domain Strategy` رو حالت `IpIfNonMatch` باشه:  
+3. رو `Custom rules` تپ کنید. تو سربرگ `Direct URL or IP` بنویسید:
+- `ext:iran.dat:ir`
+- `ext:iran.dat:other`
+  
+4. تو سربرگ `Blocked URL or IP` بنویسید:
+- `ext:iran.dat:ads`
+    
+بعد هم اوکی کنید و تمام.
+<table>
+  <tr>
+    <td>  <img align="right" height="400" src="assets/v2rayng1.png"> </td>
+    <td>  <img align="right" height="400" src="assets/v2rayng2.png"> </td>
+   </tr>
+  </tr>
+</table>
+
+#
+### [v2rayN](https://github.com/2dust/v2rayN)
+
+1. در ابتدا فایل `iran.dat` را دانلود کنید.
+1. فایل را در محل نصب برنامه `v2rayN` در پوشه `bin` قرار دهید.
+2. سپس `v2rayN` را باز کنید و روی `Setting` کلیک کنید و گزینه `RoutingSetting` را انتخاب کنید.
+3. سپس در پنجره جدید روِی `Advance Function` کلیک کنید و گزینه `Add` را انتخاب کنید.
+4. در پنجره جدید در قسمت `Remarks` یک نام انتخاب کنید و در قسمت `Rule List` در قسمت خالی راست کلیک کرده و گزینه `Rule Add` را انتخاب کنید.
+5. در پنجره جدید در قسمت `OutboundTag` گزینه `Direct` را انتخاب کنید و سپس در قسمت `Domains` عبارت `ext:iran.dat:ir,ext:iran.dat:other,regexp:^.+\.ir$` را کپی کنید.
+6. بر روی گزینه `Confirm` کلیک کنید تا به صفحه اصلی برنامه برگردید.
+7. مطمن شوید که از پایین برنامه فسمت `Routing` نام rule انتخابی شما وارد شده است. درغیر اینصورت فلش رو به پایین سمت راست آنرا بزنید و نام rule انتخابی خود را انتخاب کنید.
+
+#
+### [SagerNet](https://github.com/SagerNet/SagerNet)
+<img src="assets/sagernet.png">
+
+1. در ابتدا فایل `iran.dat` را دانلود کنید.
+2. فایل را از طریق `Route -> Three dots -> Manage Route Assets`  به کلاینت اضافه کنید.  
+3.  از بخش  `Route -> Create Route` قوانین زیر را اضافه کنید:   
+</div>  
+
+- Block Ads:
+  - domain: `geosite:category-ads-all`
+  - outbound: `Block`
+- Block Iran Ads:
+  - domain: `ext:iran.dat:ads`
+  - outbound: `Block`
+- Bypass Iran .ir Domains:
+  - domain: `regexp:.+\.ir$`
+  - outbound: `Bypass`
+- Bypass Iran non .ir Domains:
+  - domain: `ext:iran.dat:other`
+  - outbound: `Bypass`
+- Bypass Iran geoip:
+  - ip: `geoip:ir`
+  - outbound: `Bypass`
+
+
+برای مشاهده‌ی اسکرین شات از قوانین بالا [اینجا کلیک کنید](https://imgur.com/a/SEq1Bvg).
+
+4. اتصال خود را قطع و وصل کنید.  
+
+
+#
 ### منابع
 
 - دامنه‌های ایران:
