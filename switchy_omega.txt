@@ -201,6 +201,7 @@ localhost
 *abooch.com
 *abpsoil.com
 *abrangnet.com
+*abrarnews.com
 *abrbazar.com
 *abreshomal.com
 *abrestan.com
@@ -396,6 +397,7 @@ localhost
 *aghighfund.com
 *aghsatinet.com
 *aghzie.com
+*agri-bank.com
 *agribourse.com
 *agrimechanization.com
 *agurco.com
@@ -743,6 +745,7 @@ localhost
 *anjammidam.com
 *anjelshop.com
 *anjomanayeghdelijan.com
+*ansarbank.com
 *ansari-saffron.com
 *ansaribearings.com
 *ansarleasing.com
@@ -767,6 +770,7 @@ localhost
 *apadanatak.com
 *apadanawood.com
 *aparat.com
+*aparatsport.com
 *apexsupplement.com
 *apkhalf.tk
 *apkhalf1.tk
@@ -928,6 +932,7 @@ localhost
 *armaghanalmasfund.com
 *armaghansanat.com
 *arman-abzarbeton.com
+*arman-ati.com
 *arman-exchange.com
 *arman-industrial-group.com
 *armanchemicals.com
@@ -1117,6 +1122,8 @@ localhost
 *asanjahaz.com
 *asanmed.com
 *asanpaint.com
+*asanpardakht.com
+*asanpardakht.net
 *asanpayamak.com
 *asanpc.com
 *asanpipe.com
@@ -1990,6 +1997,7 @@ localhost
 *bimekonid.com
 *bimemahan.com
 *bimeme.com
+*bimeonline.com
 *bimepezeshkan.com
 *bimepisheh.com
 *bimepoosh.com
@@ -2039,6 +2047,7 @@ localhost
 *bizines.com
 *bizyar.com
 *bkhoone.com
+*bkisecurities.com
 *blackbuffalo.co
 *blackroid.com
 *blaxsub.com
@@ -2128,6 +2137,7 @@ localhost
 *botashop.com
 *boualihealth.com
 *bourseemdad.com
+*bourseiness.com
 *bourseiran.org
 *bourseon.com
 *boursewinners.com
@@ -2596,6 +2606,7 @@ localhost
 *damoon.org
 *damoonlift.com
 *dana-insurance.com
+*danabroker.com
 *danaco.org
 *danadesk.com
 *danamoshaver.com
@@ -3291,6 +3302,7 @@ localhost
 *eghlimeh.com
 *eghtesadiiran.com
 *eghtesadkara.com
+*eghtesadnews.com
 *eghtesadoma.com
 *eghtesadonline.com
 *egp24.com
@@ -3535,6 +3547,7 @@ localhost
 *etouristhotel.com
 *etrat-fatemi.com
 *etrat-nkh.com
+*ettelaat.com
 *eustarsexpo.com
 *evafilm.stream
 *ever247.net
@@ -3879,6 +3892,7 @@ localhost
 *filmtoon.com
 *filteriran.com
 *finalchocolate.com
+*financialtribune.com
 *find-s1-uploadboy.xyz
 *findlinks.xyz
 *findlinkss.xyz
@@ -3905,6 +3919,7 @@ localhost
 *flamingocommercial.com
 *flexorpars.com
 *flienglish.com
+*flightio.com
 *floristtea.com
 *flyjoo.com
 *flytodayir.com
@@ -3956,6 +3971,7 @@ localhost
 *fpr-co.com
 *freeformland.com
 *freepaper.me
+*freetwitterbot.xyz
 *freevp.tk
 *frelectronic.com
 *frotel.com
@@ -4473,7 +4489,7 @@ localhost
 *hamta.cloud
 *hamta.io
 *hamta.me
-*hamtamovie.us
+*hamtamovie.pro
 *hamtanab.net
 *hamtashopping.com
 *hamvar.com
@@ -4537,6 +4553,7 @@ localhost
 *hawramanat.com
 *hawzah.net
 *hawzahistory.com
+*hawzahnews.com
 *hayatkhalvat.com
 *hayoola.com
 *hbilearn.com
@@ -4610,6 +4627,7 @@ localhost
 *hff.farm
 *hfocargo.com
 *hgh724.com
+*hibank24.com
 *hic-iran.com
 *hich-group.com
 *hicwatch.com
@@ -5020,6 +5038,7 @@ localhost
 *iran-lms.com
 *iran-mavad.com
 *iran-meshop.net
+*iran-newspaper.com
 *iran-spe.com
 *iran-transfo.com
 *iran-watch.com
@@ -5095,6 +5114,7 @@ localhost
 *irandisk.com
 *irandns.com
 *iranecar.com
+*iraneconomist.com
 *iranejra.com
 *iranemanfestival.com
 *iranemanfestival.net
@@ -5347,6 +5367,7 @@ localhost
 *irexpotv.com
 *irext.com
 *irf1.com
+*irfarabi.com
 *irfilm.org
 *irfollow.com
 *irgda.com
@@ -6607,6 +6628,7 @@ localhost
 *makhzaneab.com
 *makiyajshop.com
 *maknanet.com
+*makoranmusic.com
 *maktabkhooneh.org
 *makufz.org
 *malaat.com
@@ -7319,6 +7341,7 @@ localhost
 *mrakbarnia.com
 *mramooz.com
 *mrbilit.co
+*mrbilit.com
 *mrbilit.me
 *mrchangal.com
 *mrchap.com
@@ -7652,6 +7675,7 @@ localhost
 *newteb.com
 *nex1.info
 *nexo.plus
+*nextpay.org
 *neykala.com
 *neyshaboursugar.com
 *nezamavaran.com
@@ -7884,6 +7908,7 @@ localhost
 *novinagri.com
 *novinbazsazi.com
 *novinborna.com
+*novinbourse.com
 *novincabinco.com
 *novindiet.com
 *novinesh.com
@@ -7963,6 +7988,7 @@ localhost
 *ofoghurmia.com
 *ofvco.com
 *ogeneralbane.com
+*oibroker.com
 *oipipe.com
 *okala.com
 *okam.co
@@ -8288,6 +8314,7 @@ localhost
 *pars-seda.net
 *pars-seda.org
 *pars.host
+*pars.ws
 *pars8.com
 *parsaco.org
 *parsaeducation.com
@@ -8346,6 +8373,7 @@ localhost
 *parshoonam.com
 *parshub.com
 *parsiamusic.com
+*parsian-bank.com
 *parsianbon.com
 *parsianbp.com
 *parsianbroker.com
@@ -9310,6 +9338,7 @@ localhost
 *renderburger.com
 *rentinal.info
 *resaa.net
+*resalat-news.com
 *resalatlab.com
 *resana.tv
 *resaneh.net
@@ -9844,6 +9873,7 @@ localhost
 *sanamsahand.com
 *sanapersian.com
 *sanareg.com
+*sanatarticle.com
 *sanataryan.com
 *sanatenaft.org
 *sanatenovin.com
@@ -9985,6 +10015,7 @@ localhost
 *sazmanhost.com
 *sazp.net
 *sb-medlab.com
+*sb24.com
 *sbbs-soc.com
 *sbfars.com
 *sbipaper.com
@@ -9999,6 +10030,7 @@ localhost
 *scoreboard-app.com
 *scorize.com
 *scriptyab.com
+*sdbhouse.com
 *sdmabna.com
 *sdp-soft.com
 *sdtnetshop.com
@@ -10593,8 +10625,10 @@ localhost
 *snapasteur.com
 *snapmelk.com
 *snapp-box.com
+*snapp.cab
 *snapp.site
 *snapp.taxi
+*snapp.tech
 *snappbit.com
 *snappgol.com
 *snapplole.com
@@ -10736,6 +10770,7 @@ localhost
 *srespina.com
 *sric-co.com
 *srpdist.com
+*srttu.edu
 *srvrahanj.com
 *ssbiomat.com
 *ssdbazar.com
@@ -10930,6 +10965,7 @@ localhost
 *takfroosh.com
 *takhfif.top
 *takhfifak.com
+*takhfifan.com
 *takhfifbartar.com
 *takhfifbazan.com
 *takhfifmark.com
@@ -11267,6 +11303,7 @@ localhost
 *tgceng.com
 *tgcnl.com
 *tghormozgan.com
+*tgju.org
 *tgkanal.com
 *tgm12.com
 *tgostaran.com
@@ -12153,9 +12190,7 @@ localhost
 *ztsco.com
 *zuperi.com
 *zzzagros.com
-*countly.saman.solutions
 *pay98.app
-*nextpay.org
 *javab24.com
 *opizo.com
 *hard-repair.com
