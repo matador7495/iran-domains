@@ -123,6 +123,7 @@ rule-providers:
 
 #
 ### [SagerNet](https://github.com/SagerNet/SagerNet)
+### [Matsuri](https://github.com/MatsuriDayo/Matsuri)
 <img src="assets/sagernet.png">
 
 1. در ابتدا فایل `iran.dat` را دانلود کنید.
