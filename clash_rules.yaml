@@ -1112,6 +1112,7 @@ payload:
   - DOMAIN-SUFFIX,akhbarbank.com
   - DOMAIN-SUFFIX,akhbarjo.ir
   - DOMAIN-SUFFIX,akhbartop.ir
+  - DOMAIN-SUFFIX,akhjon.com
   - DOMAIN-SUFFIX,akhr.ir
   - DOMAIN-SUFFIX,akhtartap.ir
   - DOMAIN-SUFFIX,akkaam.com
@@ -4312,6 +4313,7 @@ payload:
   - DOMAIN-SUFFIX,bimsanji.com
   - DOMAIN-SUFFIX,bimsanji.ir
   - DOMAIN-SUFFIX,bimtik.ir
+  - DOMAIN-SUFFIX,bina-iotech.ir
   - DOMAIN-SUFFIX,binagroup.ir
   - DOMAIN-SUFFIX,binalearn.ir
   - DOMAIN-SUFFIX,binalood-ind.ir
@@ -4462,6 +4464,7 @@ payload:
   - DOMAIN-SUFFIX,blueco.ir
   - DOMAIN-SUFFIX,bluecube.ir
   - DOMAIN-SUFFIX,bluecubeco.ir
+  - DOMAIN-SUFFIX,bluedl.xyz
   - DOMAIN-SUFFIX,bluemo2.xyz
   - DOMAIN-SUFFIX,blueonee.com
   - DOMAIN-SUFFIX,bluering.ir
@@ -4825,7 +4828,6 @@ payload:
   - DOMAIN-SUFFIX,cadafzar.ir
   - DOMAIN-SUFFIX,cafe-project.ir
   - DOMAIN-SUFFIX,cafeamiran.com
-  - DOMAIN-SUFFIX,cafeariel.com
   - DOMAIN-SUFFIX,cafeariel.ir
   - DOMAIN-SUFFIX,cafearz.com
   - DOMAIN-SUFFIX,cafeaudio.ir
@@ -6274,6 +6276,7 @@ payload:
   - DOMAIN-SUFFIX,derang.ir
   - DOMAIN-SUFFIX,desalco.net
   - DOMAIN-SUFFIX,desart.ir
+  - DOMAIN-SUFFIX,designbis.ir
   - DOMAIN-SUFFIX,designerelite.ir
   - DOMAIN-SUFFIX,designkey.ir
   - DOMAIN-SUFFIX,designpoya.ir
@@ -9270,7 +9273,6 @@ payload:
   - DOMAIN-SUFFIX,getbilit.com
   - DOMAIN-SUFFIX,getcooking.app
   - DOMAIN-SUFFIX,getidcard.com
-  - DOMAIN-SUFFIX,getl.ir
   - DOMAIN-SUFFIX,getsharj.com
   - DOMAIN-SUFFIX,getsource.ir
   - DOMAIN-SUFFIX,geyahdarmani.ir
@@ -11884,6 +11886,7 @@ payload:
   - DOMAIN-SUFFIX,iranianabzar.ir
   - DOMAIN-SUFFIX,iranianarchitecture.net
   - DOMAIN-SUFFIX,iranianarta.com
+  - DOMAIN-SUFFIX,iranianarthome.ir
   - DOMAIN-SUFFIX,iranianasnaf.ir
   - DOMAIN-SUFFIX,iranianbarter.com
   - DOMAIN-SUFFIX,iranianbastan.ir
@@ -14750,6 +14753,7 @@ payload:
   - DOMAIN-SUFFIX,lmsp.ir
   - DOMAIN-SUFFIX,lmsspace.com
   - DOMAIN-SUFFIX,lo30.ir
+  - DOMAIN-SUFFIX,loadaverage.net
   - DOMAIN-SUFFIX,loadcell.ir
   - DOMAIN-SUFFIX,loadi.ir
   - DOMAIN-SUFFIX,lobas.ir
@@ -15977,6 +15981,7 @@ payload:
   - DOMAIN-SUFFIX,menbarsiyasi.com
   - DOMAIN-SUFFIX,menbarsiyasi.ir
   - DOMAIN-SUFFIX,menchico.ir
+  - DOMAIN-SUFFIX,meneteam.pro
   - DOMAIN-SUFFIX,menhajeferdowsian.ir
   - DOMAIN-SUFFIX,menhayenaft.ir
   - DOMAIN-SUFFIX,menli.ir
@@ -17004,6 +17009,7 @@ payload:
   - DOMAIN-SUFFIX,myandroidplus.ir
   - DOMAIN-SUFFIX,myandroidplus1.ir
   - DOMAIN-SUFFIX,myandroidplus2.ir
+  - DOMAIN-SUFFIX,myandroidplus6.ir
   - DOMAIN-SUFFIX,myappsun.ca
   - DOMAIN-SUFFIX,myappsun.com
   - DOMAIN-SUFFIX,myappsun.de
@@ -17088,6 +17094,7 @@ payload:
   - DOMAIN-SUFFIX,mysf.ir
   - DOMAIN-SUFFIX,myshanet.net
   - DOMAIN-SUFFIX,myshine.ir
+  - DOMAIN-SUFFIX,mysignall.com
   - DOMAIN-SUFFIX,mysimorgh.com
   - DOMAIN-SUFFIX,mysoot.ir
   - DOMAIN-SUFFIX,mystor.ir
@@ -17892,6 +17899,7 @@ payload:
   - DOMAIN-SUFFIX,nilitarin.ir
   - DOMAIN-SUFFIX,nilkooh.ir
   - DOMAIN-SUFFIX,nillkin24.ir
+  - DOMAIN-SUFFIX,nilmo.ir
   - DOMAIN-SUFFIX,niloblog.com
   - DOMAIN-SUFFIX,niloofarabi.ir
   - DOMAIN-SUFFIX,niloomoazzami.com
@@ -20237,6 +20245,7 @@ payload:
   - DOMAIN-SUFFIX,portalshahr.net
   - DOMAIN-SUFFIX,portech.ir
   - DOMAIN-SUFFIX,porteghaal.com
+  - DOMAIN-SUFFIX,porteqali.com
   - DOMAIN-SUFFIX,porteqali.ir
   - DOMAIN-SUFFIX,poru.ir
   - DOMAIN-SUFFIX,posheshgostar.com
@@ -20979,6 +20988,7 @@ payload:
   - DOMAIN-SUFFIX,ranginshop.ir
   - DOMAIN-SUFFIX,ranginweb.com
   - DOMAIN-SUFFIX,rankedgaming.ir
+  - DOMAIN-SUFFIX,rankineh.ir
   - DOMAIN-SUFFIX,rankoohnews.ir
   - DOMAIN-SUFFIX,ranobaby.com
   - DOMAIN-SUFFIX,rao.ir
@@ -22157,6 +22167,7 @@ payload:
   - DOMAIN-SUFFIX,sakhtemanshow.ir
   - DOMAIN-SUFFIX,sakhtemoon.com
   - DOMAIN-SUFFIX,sakhtemoon118.com
+  - DOMAIN-SUFFIX,sakhtemoon24.com
   - DOMAIN-SUFFIX,sakhtemoonia.ir
   - DOMAIN-SUFFIX,sakhtemooon24.ir
   - DOMAIN-SUFFIX,sakhtemun.com
@@ -24472,6 +24483,7 @@ payload:
   - DOMAIN-SUFFIX,spiraldesign.org
   - DOMAIN-SUFFIX,spirooz.ir
   - DOMAIN-SUFFIX,splc.ir
+  - DOMAIN-SUFFIX,splus.ir
   - DOMAIN-SUFFIX,spm724.ir
   - DOMAIN-SUFFIX,spmshop.ir
   - DOMAIN-SUFFIX,spn360.ir
@@ -25384,6 +25396,7 @@ payload:
   - DOMAIN-SUFFIX,tavoustravel.ir
   - DOMAIN-SUFFIX,tavrizhark.com
   - DOMAIN-SUFFIX,tavvajprint.com
+  - DOMAIN-SUFFIX,taw-bio.ir
   - DOMAIN-SUFFIX,tax.gov.ir
   - DOMAIN-SUFFIX,taxbar.ir
   - DOMAIN-SUFFIX,taxclub.ir
@@ -26894,6 +26907,7 @@ payload:
   - DOMAIN-SUFFIX,villaz.ir
   - DOMAIN-SUFFIX,vilo.ir
   - DOMAIN-SUFFIX,vina.ir
+  - DOMAIN-SUFFIX,vinehart.com
   - DOMAIN-SUFFIX,vinselo.com
   - DOMAIN-SUFFIX,vintastore.ir
   - DOMAIN-SUFFIX,viokala.com
@@ -26925,6 +26939,7 @@ payload:
   - DOMAIN-SUFFIX,virayeshyar.ir
   - DOMAIN-SUFFIX,virgool.io
   - DOMAIN-SUFFIX,virl.ir
+  - DOMAIN-SUFFIX,virtual-server.site
   - DOMAIN-SUFFIX,virtualarch.ir
   - DOMAIN-SUFFIX,virtualdr.ir
   - DOMAIN-SUFFIX,virtuallearning.ir
@@ -27169,6 +27184,7 @@ payload:
   - DOMAIN-SUFFIX,wenexco.net
   - DOMAIN-SUFFIX,wensen.ir
   - DOMAIN-SUFFIX,wesale.ir
+  - DOMAIN-SUFFIX,wesamland.ir
   - DOMAIN-SUFFIX,westap.ir
   - DOMAIN-SUFFIX,westation.ir
   - DOMAIN-SUFFIX,westbuy.ir
@@ -27835,7 +27851,6 @@ payload:
   - DOMAIN-SUFFIX,zeytoone.ir
   - DOMAIN-SUFFIX,zeytoonlian.ir
   - DOMAIN-SUFFIX,zezoo.ir
-  - DOMAIN-SUFFIX,zflix.ir
   - DOMAIN-SUFFIX,zgolole.ir
   - DOMAIN-SUFFIX,zhaav.ir
   - DOMAIN-SUFFIX,zhaco.ir
@@ -28026,4 +28041,6 @@ payload:
   - DOMAIN-SUFFIX,parsdev.com
   - DOMAIN-SUFFIX,mehrafarinorg.ir
   - DOMAIN-SUFFIX,mehrafarinorg.com
+  - DOMAIN-SUFFIX,sdb247.com
+  - DOMAIN-SUFFIX,weswap.digital
   - GEOIP,IR

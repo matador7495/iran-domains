@@ -463,6 +463,7 @@ akhavancenter.com
 akhavanhome.com
 akhavanpaper.com
 akhbarbank.com
+akhjon.com
 akkaam.com
 akkasee.com
 akmfund.com
@@ -2055,6 +2056,7 @@ bloghnews.com
 blogsky.com
 blubank.com
 blue-white.co
+bluedl.xyz
 bluemo2.xyz
 blueonee.com
 blueserver1.com
@@ -2186,7 +2188,6 @@ cab-in.com
 cabinetbank.com
 cabinvanet.com
 cafeamiran.com
-cafeariel.com
 cafearz.com
 cafebazaar.cloud
 cafebody.com
@@ -6417,6 +6418,7 @@ lmapgroup.com
 lms-college.com
 lms-college.uk
 lmsspace.com
+loadaverage.net
 lochstore.com
 lodirya.com
 loghmanhakim.com
@@ -6970,6 +6972,7 @@ memarmedia.com
 memory.market
 menbarha.com
 menbarsiyasi.com
+meneteam.pro
 mento-shop.com
 mer30download.com
 meraatnews.com
@@ -7417,6 +7420,7 @@ myrefco.com
 mysarakhs.com
 mysepanta.com
 myshanet.net
+mysignall.com
 mysimorgh.com
 mytl.mobi
 myuptodate.com
@@ -8890,6 +8894,7 @@ portalbime.com
 portalmci.com
 portalshahr.net
 porteghaal.com
+porteqali.com
 posheshgostar.com
 poshinmod.com
 post-2.com
@@ -9739,6 +9744,7 @@ sakhteman24.com
 sakhtemanshow.com
 sakhtemoon.com
 sakhtemoon118.com
+sakhtemoon24.com
 sakhtemun.com
 sakhtma.com
 sakokala.com
@@ -11741,6 +11747,7 @@ viladar.com
 vilamaskan.com
 villamobl.com
 villashomal.com
+vinehart.com
 vinselo.com
 viokala.com
 violinmusics.com
@@ -11757,6 +11764,7 @@ viraphone.com
 virasepehr.com
 virawork.com
 virgool.io
+virtual-server.site
 visakaran.com
 visaland.org
 vision-ac.com
@@ -12198,3 +12206,5 @@ hivanetwork.com
 sarvdata.com
 parsdev.com
 mehrafarinorg.com
+sdb247.com
+weswap.digital

@@ -19,7 +19,7 @@ rule-providers:
   iran:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/matador7495/iran-domains/main/clash_rules.yaml"
+    url: "https://github.com/matador7495/iran-domains/releases/latest/download/clash_rules.yaml"
     path: ./ruleset/database-iran.yaml
     interval: 86400
 ```
@@ -36,13 +36,13 @@ rule-providers:
 #
 ### [Qv2ray](https://github.com/Qv2ray/Qv2ray)
 
-[لینک دانلود آخرین نسخه فایل qv2ray_schema.json](https://github.com/matador7495/iran-domains/releases/download/lasted/qv2ray_schema.json)
+[لینک دانلود آخرین نسخه فایل qv2ray_schema.json](https://github.com/matador7495/iran-domains/releases/latest/download/qv2ray_schema.json)
 محتوا فایل را در پروفایل proxy بخش مربوط به Bypass List قرار دهید
 
 #
 ### Proxy SwitchyOmega افزونه
 1. فایل switchy_omega را دانلود کنید.
-[لینک دانلود آخرین نسخه فایل switchy_omega.txt](https://github.com/matador7495/iran-domains/releases/download/lasted/switchy_omega.txt)
+[لینک دانلود آخرین نسخه فایل switchy_omega.txt](https://github.com/matador7495/iran-domains/releases/latest/download/switchy_omega.txt)
 2. در بخش `preferences` بر روی `Advanced Route Settings` کلیک کنید.
 3. در پایین صفحه، بر روی `import schema...` کلیک کنید.
 4. فایل qv2ray_schema.json دانلود شده را انتخاب کنید.
@@ -54,7 +54,7 @@ rule-providers:
 ### [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
 1. فایل `shadowrocket.conf` را دانلود کنید.
-[لینک دانلود آخرین نسخه فایل shadowrocket.conf](https://github.com/matador7495/iran-domains/releases/download/lasted/shadowrocket.conf)
+[لینک دانلود آخرین نسخه فایل shadowrocket.conf](https://github.com/matador7495/iran-domains/releases/latest/download/shadowrocket.conf)
 2. در اپلیکیشن بر روی `Import From Cloud` کلیک کرده و فایل مربوط را اضافه کنید.
 3. در نهایت، بر روی `shadowrocket.conf`کلیک کرده و `Use Config` را انتخاب کنید.
 
@@ -70,7 +70,7 @@ rule-providers:
 ### [Nekoray](https://github.com/MatsuriDayo/nekoray)
 
 1. در ابتدا فایل `domains.txt` را دانلود کنید.
-[لینک دانلود آخرین نسخه فایل domains.txt](https://github.com/matador7495/iran-domains/releases/download/lasted/domains.txt)
+[لینک دانلود آخرین نسخه فایل domains.txt](https://github.com/matador7495/iran-domains/releases/latest/download/domains.txt)
 2. سپس nekoray را باز کنید و روی آیکون `program` بالا سمت چپ کلیک کنید
 3. سپس به ترتیب روی دکمه `preferences` و `routing setting`  کلیک کنید
 4. محتوا فایل دانلود شده را در قسمت Direct-Domain جایگذاری کنید.
@@ -86,17 +86,17 @@ rule-providers:
 #
 ### [V2rayNG](https://github.com/2dust/v2rayNG)
 
-1. در ابتدا فایل `iran.dat` را دانلود کنید.
-[لینک دانلود آخرین نسخه فایل iran.dat](https://github.com/matador7495/iran-domains/releases/download/lasted/iran.dat)
+1. در ابتدا فایل `geosite.dat` را دانلود کنید.
+[لینک دانلود آخرین نسخه فایل geosite.dat](https://github.com/matador7495/iran-domains/releases/latest/download/geosite.dat)
 2. همانند تصویر اول از منو گزینه geo asset files را انتخاب کنید.
-3. بعد با زدن علامت + فایل iran.dat load کنید
+3. بعد با زدن علامت + فایل geosite.dat load کنید
 4. بعد توی `Setting` برنامه تو بخش `Routing` مطمئن بشید که `Domain Strategy` رو حالت `IpIfNonMatch` باشه:  
 5. رو `Custom rules` تپ کنید. تو سربرگ `Direct URL or IP` بنویسید:
-- `ext:iran.dat:ir`
-- `ext:iran.dat:other`
+- `ext:geosite.dat:ir`
+- `ext:geosite.dat:other`
   
 6. تو سربرگ `Blocked URL or IP` بنویسید:
-- `ext:iran.dat:ads`
+- `ext:geosite.dat:ads`
     
 بعد هم اوکی کنید و تمام.
 <table>
@@ -111,13 +111,13 @@ rule-providers:
 #
 ### [v2rayN](https://github.com/2dust/v2rayN)
 
-1. در ابتدا فایل `iran.dat` را دانلود کنید.
-[لینک دانلود آخرین نسخه فایل iran.dat](https://github.com/matador7495/iran-domains/releases/download/lasted/iran.dat)
+1. در ابتدا فایل `geosite.dat` را دانلود کنید.
+[لینک دانلود آخرین نسخه فایل geosite.dat](https://github.com/matador7495/iran-domains/releases/latest/download/geosite.dat)
 1. فایل را در محل نصب برنامه `v2rayN` در پوشه `bin` قرار دهید.
 2. سپس `v2rayN` را باز کنید و روی `Setting` کلیک کنید و گزینه `RoutingSetting` را انتخاب کنید.
 3. سپس در پنجره جدید روِی `Advance Function` کلیک کنید و گزینه `Add` را انتخاب کنید.
 4. در پنجره جدید در قسمت `Remarks` یک نام انتخاب کنید و در قسمت `Rule List` در قسمت خالی راست کلیک کرده و گزینه `Rule Add` را انتخاب کنید.
-5. در پنجره جدید در قسمت `OutboundTag` گزینه `Direct` را انتخاب کنید و سپس در قسمت `Domains` عبارت `ext:iran.dat:ir,ext:iran.dat:other,regexp:^.+\.ir$` را کپی کنید.
+5. در پنجره جدید در قسمت `OutboundTag` گزینه `Direct` را انتخاب کنید و سپس در قسمت `Domains` عبارت `ext:geosite.dat:ir,ext:geosite.dat:other,regexp:^.+\.ir$` را کپی کنید.
 6. بر روی گزینه `Confirm` کلیک کنید تا به صفحه اصلی برنامه برگردید.
 7. مطمن شوید که از پایین برنامه فسمت `Routing` نام rule انتخابی شما وارد شده است. درغیر اینصورت فلش رو به پایین سمت راست آنرا بزنید و نام rule انتخابی خود را انتخاب کنید.
 
@@ -126,8 +126,8 @@ rule-providers:
 ### [Matsuri](https://github.com/MatsuriDayo/Matsuri)
 <img src="assets/sagernet.png">
 
-1. در ابتدا فایل `iran.dat` را دانلود کنید.
-[لینک دانلود آخرین نسخه فایل iran.dat](https://github.com/matador7495/iran-domains/releases/download/lasted/iran.dat)
+1. در ابتدا فایل `geosite.dat` را دانلود کنید.
+[لینک دانلود آخرین نسخه فایل geosite.dat](https://github.com/matador7495/iran-domains/releases/latest/download/geosite.dat)
 2. فایل را از طریق `Route -> Three dots -> Manage Route Assets`  به کلاینت اضافه کنید.  
 3.  از بخش  `Route -> Create Route` قوانین زیر را اضافه کنید:   
 </div>  
@@ -136,13 +136,13 @@ rule-providers:
   - domain: `geosite:category-ads-all`
   - outbound: `Block`
 - Block Iran Ads:
-  - domain: `ext:iran.dat:ads`
+  - domain: `ext:geosite.dat:ads`
   - outbound: `Block`
 - Bypass Iran .ir Domains:
   - domain: `regexp:.+\.ir$`
   - outbound: `Bypass`
 - Bypass Iran non .ir Domains:
-  - domain: `ext:iran.dat:other`
+  - domain: `ext:geosite.dat:other`
   - outbound: `Bypass`
 - Bypass Iran geoip:
   - ip: `geoip:ir`
